@@ -1,0 +1,28 @@
+img#banner{
+  height: 160px;
+  width: 600px;}
+
+body{
+  background-color: #C11B17;}
+
+p#header{
+    background-color:#3D362D;
+font-size: 120%;
+}
+    
+img#bacon{
+  height: 450 px;
+  width: 350px}
+* {
+font-family: sans-serif;
+color: #fff;
+}
+p {
+font-size: 110%;
+}
+a {
+color: #f88;
+}
+a:hover {
+color:orange;
+}
